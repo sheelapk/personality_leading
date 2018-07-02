@@ -1,0 +1,25 @@
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgb(66, 159, 187);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+body {
+    margin: 0;
+    font-family: -apple-sy'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    }
+
+
+body {
+    font-size: 20px;
+    color: #de225f;
+    font-family: Lora,'Times New Roman',serif;
+}
+
+    
